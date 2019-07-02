@@ -41,7 +41,7 @@ const GenerateMessage = name => {
   ];
   const d = new Date();
   const dayName = days[d.getDay()];
-  return `Hi ${name} Thanks for .... \n Happy ${dayName} 😊😊 `; // your message
+  return `Hi ${name} Thanks for following us on Twitter. 👍 \n We are one of the fastest growing, best value, merchant service providers in the UK. \n Our Key Benefits: \n 🔥 Highly Competitive Transaction Rates \n 🔥 Zero Minimum Monthly Service Charge \n 🔥 Faster Payments meaning you will recieve your money the same day* \n 🔥 Real Time Analytics Fully Included. \n \n For your own tailored quote, and to see how much money we can save you, get in touch. 🤑🤑 \n \n Or if you dont use a card machine for your customers at the moment enquire now to see how we can help your business. \n  Happy ${dayName} 😊😊 `; // your message
   // My message   return `Hi ${name} Thanks for being a part of my social media network. I'am the @PicsrushE founder,A new Online Image Editor completely with web technologies,I'm also a reactjs developer and medium blogger.\n Happy to discuss anytime 😊  \n Happy ${dayName} 😊😊 `;
 };
 
